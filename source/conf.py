@@ -384,6 +384,8 @@ rst_prolog += """
 .. _Projects: https://git.kolab.org/projects/
 .. _Quality Assurance: https://git.kolab.org/tag/quality_assurance/
 .. _Scrum Masters: https://git.kolab.org/tag/process_managers/
+.. _Sprints: https://git.kolab.org/project/sprint/
+.. _Why Your System Should Have a Proper FQDN: https://kanarip.wordpress.com/2016/02/04/why-your-system-requires-a-proper-fqdn/
 """
 
 templates_path = ['_templates', '../ext/kolabnow']
